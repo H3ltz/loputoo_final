@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import filedialog, messagebox
-from Mudel import Model
+from Model import Model
 from View import View
 
 
